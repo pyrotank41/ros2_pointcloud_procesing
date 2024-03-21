@@ -1,0 +1,5 @@
+#ignore build files in any directory
+**/build/*
+#ignore .pcd files in any directory
+**/*.pcd
+
